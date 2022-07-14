@@ -1,12 +1,11 @@
 
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 type Props = {
   masterLogs: string[];
 }
 export default function Details(props: Props) {
   const { masterLogs } = props
   const { ethereum } = window;
-  const [state, setState ] = useState({})
 
   const logs = (key: string, value: string, index: number) => {
     return (
