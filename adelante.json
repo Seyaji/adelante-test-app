@@ -1,0 +1,9 @@
+
+{
+  "useTypescript": true,
+  "inlineFunctions": false,
+  "inlineComponents": false,
+  "abiPath": "/Test.json",
+  "contractAddress": "0xad817DF7E076e1c10598b953dEF5c4c13ADBfe2a",
+  "projectPath": "/src"
+}
