@@ -10,7 +10,7 @@ export default function Nav(props: Props){
   return (
     <nav>
       <button onClick={handleTheme} >change theme</button>
-      <p id="nav-text">
+      <p id="logo-text">
       ░█████╗░██████╗░███████╗██╗░░░░░░█████╗░███╗░░██╗████████╗███████╗
       ██╔══██╗██╔══██╗██╔════╝██║░░░░░██╔══██╗████╗░██║╚══██╔══╝██╔════╝
       ███████║██║░░██║█████╗░░██║░░░░░███████║██╔██╗██║░░░██║░░░█████╗░░

@@ -15,6 +15,11 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
 ::-webkit-scrollbar {
   width: 12px;
 }
@@ -79,7 +84,7 @@ nav li:hover {
   cursor: pointer;
 }
 
-#nav-text {
+#logo-text {
   width: 600px;
   font-size: .7em;
   text-align: center;
@@ -119,6 +124,7 @@ button {
   text-align: center;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   width: 100%;
   border-top: 2px solid var(--heading-color);
 }

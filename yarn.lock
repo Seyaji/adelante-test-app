@@ -2743,9 +2743,9 @@ address@^1.0.1, address@^1.1.2:
   resolved "https://registry.npmjs.org/address/-/address-1.2.0.tgz"
   integrity sha512-tNEZYz5G/zYunxFm7sfhAxkXEuLj3K6BKwv6ZURlsF6yiUQ65z0Q2wZW9L5cPUl9ocofGvXOdFYbFHp0+6MOig==
 
-adelante@./adelante-1.1.6.tgz:
-  version "1.1.6"
-  resolved "./adelante-1.1.6.tgz#7001b9b89d9fc1cc820c7712dc389b63b6326e6a"
+adelante@./adelante-1.1.7.tgz:
+  version "1.1.7"
+  resolved "./adelante-1.1.7.tgz#55a7618b18d2c3eaea39650131e8321b1b8d0b13"
   dependencies:
     app-root-path "^3.0.0"
     inquirer "^9.0.0"
