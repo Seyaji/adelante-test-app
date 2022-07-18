@@ -10,7 +10,7 @@ export default function Details(props: Props) {
   const logs = (key: string, value: string, index: number) => {
     return (
       <div key={index} className="log-box">
-        <p className="text-extra">{key}: <span className="log-text">{value}</span></p>
+        <p className="log-func">{key}: <span className="log-text">{value}</span></p>
       </div>
     )
   }

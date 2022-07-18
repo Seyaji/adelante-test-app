@@ -11,7 +11,7 @@ export default function changeTheme(theme: string): string {
       light: {
         main: '#FDFDFC',
         heading: '#4B4367',
-        secondary: '#8781AA',
+        secondary: '#B0BFD4',
         font: '#0A0613',
         extra: '#4252BB',
       }
